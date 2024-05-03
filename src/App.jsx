@@ -1,5 +1,6 @@
 import './App.css'
 import SingIn from './components/pages/SingIn'
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 //react
 import {Route, Routes} from "react-router-dom"

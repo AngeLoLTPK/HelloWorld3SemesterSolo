@@ -4,7 +4,7 @@ import Sidebar from "../layout/singIn/sidebar";
 
 const SingIn = () => {
   return (
-    <div style={{display: "flex", flex: "row", justifyContent: "space-between"}}>   
+    <div>   
 
         <div style={{width: "65%"}}> <Content /> </div>
 
