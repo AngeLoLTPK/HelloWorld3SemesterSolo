@@ -4,9 +4,9 @@ import Sidebar from "../layout/singIn/sidebar";
 
 const SingIn = () => {
   return (
-    <div>   
+    <div style={{display: "flex",}}>   
 
-        <div style={{width: "65%"}}> <Content /> </div>
+        <div style={{minWidth: "65%"}}> <Content /> </div>
 
         <div style={{width: "35%"}}> <Sidebar /> </div>
 

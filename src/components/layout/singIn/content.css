@@ -1,3 +1,14 @@
+#all {
+    min-height: 880px;
+}
+
+#middleText {
+    margin-bottom: 100px;
+
+    padding-left: 8%;
+    padding-right: 8%;
+}
+
 .arrowUp {
     padding-bottom: 40px;
 }

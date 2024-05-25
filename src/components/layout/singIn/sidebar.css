@@ -1,0 +1,24 @@
+.all {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+
+    min-height: 880px;
+
+    background-color: #1A4363;
+
+    padding: 40px;
+
+    border-radius: 15px;
+}
+
+.title {
+    color: white;
+}
+
+#divBottom {
+    border-top: solid white 1px;
+    padding: 20px;
+    width: 90%;
+}
