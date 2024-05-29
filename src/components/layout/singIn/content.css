@@ -1,5 +1,10 @@
 #all {
     min-height: 880px;
+
+    display: flex;
+
+    flex-direction: column;
+    justify-content: center;
 }
 
 #middleText {
@@ -15,4 +20,22 @@
 
 .space {
     padding-right: 30px;
+}
+
+.figurePersona {
+    min-width: 200px;
+}
+
+.textPersona {
+    font-size: 1.1rem;
+}
+
+.personaFlagsDiv {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}   
+
+.figureFlag {
+    margin: 0px;
 }
